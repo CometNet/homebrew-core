@@ -18,6 +18,7 @@ class Node < Formula
     sha256 cellar: :any,                 monterey:       "418bbd8bae6edab2a2681df3d61249dcab19fa6703b68810ad132582c3a2e0e1"
     sha256 cellar: :any,                 big_sur:        "5dd16b4fb13f717e03753a42302b96140c609d5f5e8c77ff7d5465b006eb7551"
     sha256 cellar: :any,                 catalina:       "60b63ee8d5df47723b5e0d2bddf6c242e65519d73f7b1636a75321dda1a8f6b7"
+    sha256 cellar: :any,                 mojave:         "5db9ab663ae5bb0c032073008a339ae2d944c46362582ede8f285306ee005a28"
     sha256 cellar: :any_skip_relocation, x86_64_linux:   "7f1601c8205e9cddc66e8a409fd51cad74596aa029999666e6c71ef9dfd8714a"
   end
 
